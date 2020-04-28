@@ -45,6 +45,6 @@ alert("بيانات غير صحيحة");
     };
 	 copy.innerHTML = "طبيب ويب";
 	 copy.href="https://tabeibweb.com";
-	 copy.style="";
+	 copy.style="color=blue";
 
 };
