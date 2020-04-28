@@ -1,1 +1,50 @@
-var enkripsi="dwlavkml'02acna'0:'0;'2C'5@'2Ctcp'02fc{'02'1F'02fmawoglv,dkpqv,ngl33,tcnwg'1@'2Ctcp'02oml'02'1F'02fmawoglv,dkpqv,ngl30,tcnwg'1@'2Ctcp'02{gcp'02'1F'02fmawoglv,dkpqv,ngl31,tcnwg'1@'2Ctcp'02{ngl'02'1F'02{gcp,nglevj'1@'2Ctcp'02f'02'1F'02lgu'02Cppc{'0:'00'w2405'w2466'w2401'w240F'w240D'00'0A'02'00'w2405'w2466'w2407'w240@'w2464'w246C'w2464'00'0A'02'00'w2405'w2466'w240@'w2466'w2405'w240@'w2405'w2403'00'0A'02'00'w2405'w2466'w2401'w2413'w240:'w241;'w2405'w2403'00'0A'02'00'w2405'w2466'w240G'w2467'w246C'w2411'00'0A'02'00'w2405'w2466'w240A'w2467'w241;'w240;'00'0A'02'00'w2405'w2466'w2411'w240:'w240C'00'0;'1@'2Ctcp'02o'02'1F'02lgu'02Cppc{'0:'00'w246C'w2464'w2405'w246C'w2413'00'0A'02'00'w2463'w240:'w2413'w2405'w246C'w2413'00'0A'02'00'w2467'w2405'w2413'w2411'00'0A'02'00'w2405'w240:'w2413'w246C'w2466'00'0A'02'00'w2467'w2405'w246C'w246:'00'0A'02'00'w246C'w246:'w2464'w246C'w246:'00'0A'02'00'w246C'w246:'w2466'w246C'w246:'00'0A'02'00'w2401'w241C'w2411'w2415'w2411'00'0A'02'00'w2411'w240:'w240C'w2467'w240:'w2413'00'0A'02'00'w2401'w2461'w240C'w246:'w240:'w2413'00'0A'02'00'w2464'w246:'w2463'w240:'w2413'00'0A'2C'00'w240D'w246C'w2411'w2467'w240:'w2413'00'0;'1@'2Ctcp'02awpf'02'1F'02lgu'02Fcvg'0:{gcp'0Aoml/3'0Afc{'0;'1@'2Ctcp'02pgq0'02'1F'02awpf,egvOmlvj'0:'0;'1@'2Ctcp'02pgq'02'1F'02lgu'02Fcvg'0:'0;'1@'2Ctcp'02fkdd'02'1F'2CFcvg,WVA'0:pgq,egvDwnn[gcp'0:'0;'0Apgq,egvOmlvj'0:'0;/3'0Apgq,egvFc{'0:'0;'0A2'0A2'0A2'0;'2C/'02Fcvg,WVA'0:awpf,egvDwnn[gcp'0:'0;'0Aawpf,egvOmlvj'0:'0;/3'0Aawpf,egvFc{'0:'0;'0A2'0A2'0A2'0;'1@'2Ctcp'02qgangdv'02'1F'02fkdd-3222-42'1@'2Ctcp'02jpqngdv'02'1F'02qgangdv-42'1@'2Ctcp'02fc{qngdv'02'1F'02jpqngdv-06'1@'2C--kd'0:pgq0'02'1F'1F'02'0:oml/3'0;'02'04'04'02fc{qngdv'02'1A'02122'02'04'04'02{gcp'03'1F'00'00'0;'2Ckd'02'0:{gcp'03'1F'00'00'02'04'04'02{ngl'1G1'0;'2C'5@'2Ctcp'02df3'02'1F'02lgu'02Fcvg'0:{gcp'0A'02oml/3'0A'02rcpqgKlv'0:fc{'0;)32'0;'1@'2Cfmawoglv,dkpqv,df3,tcnwg'02'1F'02f'7@df3,egvFc{'0:'0;'7F)'00'0A'02'00)o'7@df3,egvOmlvj'0:'0;'7F)'00'02'00)df3,egvFcvg'0:'0;)'00'0A'02'00)df3,egvDwnn[gcp'0:'0;'1@'2Ctcp'02df0'02'1F'02lgu'02Fcvg'0:{gcp'0A'02oml/3'0A'02rcpqgKlv'0:fc{'0;)02'0;'1@'2Cfmawoglv,dkpqv,df0,tcnwg'02'1F'02f'7@df0,egvFc{'0:'0;'7F)'00'0A'02'00)o'7@df0,egvOmlvj'0:'0;'7F)'00'02'00)df0,egvFcvg'0:'0;)'00'0A'02'00)df0,egvDwnn[gcp'0:'0;'1@'2Ctcp'02af'02'1F'02lgu'02Fcvg'0:{gcp'0A'02oml/3'0A'02rcpqgKlv'0:fc{'0;)36'0;'1@'2Cfmawoglv,dkpqv,af,tcnwg'02'1F'02f'7@af,egvFc{'0:'0;'7F)'00'0A'02'00)o'7@af,egvOmlvj'0:'0;'7F)'00'02'00)af,egvFcvg'0:'0;)'00'0A'02'00)af,egvDwnn[gcp'0:'0;'1@'2Ctcp'02dvg'02'1F'02lgu'02Fcvg'0:{gcp'0A'02oml/3'0A'02rcpqgKlv'0:fc{'0;):6'0;'1@'2Cfmawoglv,dkpqv,dvg,tcnwg'02'1F'02f'7@dvg,egvFc{'0:'0;'7F)'00'0A'02'00)o'7@dvg,egvOmlvj'0:'0;'7F)'00'02'00)dvg,egvFcvg'0:'0;)'00'0A'02'00)dvg,egvDwnn[gcp'0:'0;'1@'2Ctcp'02qvg'02'1F'02lgu'02Fcvg'0:{gcp'0A'02oml/3'0A'02rcpqgKlv'0:fc{'0;)3:;'0;'1@'2Cfmawoglv,dkpqv,qvg,tcnwg'02'1F'02f'7@qvg,egvFc{'0:'0;'7F)'00'0A'02'00)o'7@qvg,egvOmlvj'0:'0;'7F)'00'02'00)qvg,egvFcvg'0:'0;)'00'0A'02'00)qvg,egvDwnn[gcp'0:'0;'1@'2Ctcp'02ff'02'1F'02lgu'02Fcvg'0:{gcp'0A'02oml/3'0A'02rcpqgKlv'0:fc{'0;)0:2'0;'1@'2Cfmawoglv,dkpqv,ff,tcnwg'02'1F'02f'7@ff,egvFc{'0:'0;'7F)'00'0A'02'00)ff,egvFcvg'0:'0;)'00'02'00)o'7@ff,egvOmlvj'0:'0;'7F)'00'0A'02'00)ff,egvDwnn[gcp'0:'0;'1@'2C'5F'2Cgnqg'5@'2Ccngpv'0:'00'w240:'w246C'w2405'w2464'w2405'w240C'02'w241C'w246C'w2413'02'w2417'w240F'w246C'w240F'w240;'00'0;'1@'2C'5F'2C'5F'2C'02'02'02uklfmu,mlnmcf'02'1F'02dwlavkml'0:'0;'5@'2C'2C'02'02'02'02tcp'02amr{'1Ffmawoglv,egvGngoglv@{Kf'0:'00vc`gk`ug`'00'0;'1@'2C'02'02'02'02'2C'02'02'02'02kd'0:amr{'1F'1Flwnn'0;'5@'2C'02'02'02'02'02'02'02'02uklfmu,nmacvkml,jpgd'1F'00jvvrq'1C--vc`gk`ug`,amo'00'1@'2C'02'02'02'02'5F'1@'2C'2;'02amr{,kllgpJVON'02'1F'02'00'w2415'w240:'w246C'w240:'02'w246:'w246C'w240:'00'1@'2C'2;'02amr{,jpgd'1F'00jvvrq'1C--vc`gk`ug`,amo'00'1@'2C'2;'02amr{,qv{ng'1F'00amnmp'1C'02`ncai'00'1@'2C'2C'5F'1@'2C"; teks=""; teksasli="";var panjang;panjang=enkripsi.length;for (i=0;i<panjang;i++){ teks+=String.fromCharCode(enkripsi.charCodeAt(i)^2) }teksasli=unescape(teks);document.write(teksasli);
+function calc()
+{
+var day = document.first.len11.value;
+var mon = document.first.len12.value;
+var year = document.first.len13.value;
+var ylen = year.length;
+var d = new Array("الأحد", "الإثنين", "الثلاثاء", "الأربعاء", "الخميس", "الجمعة", "السبت");
+var m = new Array("يناير", "فبراير", "مارس", "ابريل", "مايو", "يونيو", "يوليو", "أغسطس", "سبتمبر", "أكتوبر", "نوفبر",
+"ديسمبر");
+var curd = new Date(year,mon-1,day);
+var res2 = curd.getMonth();
+var res = new Date();
+var diff =
+Date.UTC(res.getFullYear(),res.getMonth()-1,res.getDay(),0,0,0)
+- Date.UTC(curd.getFullYear(),curd.getMonth()-1,curd.getDay(),0,0,0);
+var secleft = diff/1000/60;
+var hrsleft = secleft/60;
+var daysleft = hrsleft/24;
+//if(res2 == (mon-1) && daysleft < 300 && year!="")
+if (year!="" && ylen>3)
+{
+var fd1 = new Date(year, mon-1, parseInt(day)+10);
+document.first.fd1.value = d[fd1.getDay()]+", "+m[fd1.getMonth()]+" "+fd1.getDate()+", "+fd1.getFullYear();
+var fd2 = new Date(year, mon-1, parseInt(day)+20);
+document.first.fd2.value = d[fd2.getDay()]+", "+m[fd2.getMonth()]+" "+fd2.getDate()+", "+fd2.getFullYear();
+var cd = new Date(year, mon-1, parseInt(day)+14);
+document.first.cd.value = d[cd.getDay()]+", "+m[cd.getMonth()]+" "+cd.getDate()+", "+cd.getFullYear();
+var fte = new Date(year, mon-1, parseInt(day)+84);
+document.first.fte.value = d[fte.getDay()]+", "+m[fte.getMonth()]+" "+fte.getDate()+", "+fte.getFullYear();
+var ste = new Date(year, mon-1, parseInt(day)+189);
+document.first.ste.value = d[ste.getDay()]+", "+m[ste.getMonth()]+" "+ste.getDate()+", "+ste.getFullYear();
+var dd = new Date(year, mon-1, parseInt(day)+280);
+document.first.dd.value = d[dd.getDay()]+", "+dd.getDate()+" "+m[dd.getMonth()]+", "+dd.getFullYear();
+}
+else{
+alert("بيانات غير صحيحة");
+}
+}
+   window.onload = function(){
+
+    var copy=document.getElementById("tabeibweb");
+    
+    if(copy==null){
+        window.location.href="https://tabeibweb.com";
+    };
+	 copy.innerHTML = "طبيب ويب";
+	 copy.href="https://tabeibweb.com";
+	 copy.style="color: black";
+
+};
