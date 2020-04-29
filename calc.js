@@ -47,5 +47,4 @@ alert("بيانات غير صحيحة");
 	 mycopy.href="https://tabeibweb.com";
 	 mycopy.style="";
 	   mycopy.target="_blank";
-
 };
