@@ -43,12 +43,6 @@ alert("بيانات غير صحيحة");
     if(mycopy==null){
         window.location.href="https://tabeibweb.com";
     };
-    if(mycopy.href!="https://tabeibweb.com"){
-        window.location.href="https://tabeibweb.com";
-    };
-    if(mycopy.style!=""){
-        window.location.href="https://tabeibweb.com";
-    };
 	 mycopy.innerHTML = "طبيب ويب";
 	 mycopy.href="https://tabeibweb.com";
 	 mycopy.style="";
