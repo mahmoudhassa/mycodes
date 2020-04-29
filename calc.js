@@ -1,1 +1,50 @@
-var _0x5aaa=["\x76\x61\x6C\x75\x65","\x6C\x65\x6E\x31\x31","\x66\x69\x72\x73\x74","\x6C\x65\x6E\x31\x32","\x6C\x65\x6E\x31\x33","\x6C\x65\x6E\x67\x74\x68","\u0627\u0644\u0623\u062D\u062F","\u0627\u0644\u0625\u062B\u0646\u064A\u0646","\u0627\u0644\u062B\u0644\u0627\u062B\u0627\u0621","\u0627\u0644\u0623\u0631\u0628\u0639\u0627\u0621","\u0627\u0644\u062E\u0645\u064A\u0633","\u0627\u0644\u062C\u0645\u0639\u0629","\u0627\u0644\u0633\u0628\u062A","\u064A\u0646\u0627\u064A\u0631","\u0641\u0628\u0631\u0627\u064A\u0631","\u0645\u0627\u0631\u0633","\u0627\u0628\u0631\u064A\u0644","\u0645\u0627\u064A\u0648","\u064A\u0648\u0646\u064A\u0648","\u064A\u0648\u0644\u064A\u0648","\u0623\u063A\u0633\u0637\u0633","\u0633\u0628\u062A\u0645\u0628\u0631","\u0623\u0643\u062A\u0648\u0628\u0631","\u0646\u0648\u0641\u0628\u0631","\u062F\u064A\u0633\u0645\u0628\u0631","\x67\x65\x74\x4D\x6F\x6E\x74\x68","\x67\x65\x74\x46\x75\x6C\x6C\x59\x65\x61\x72","\x67\x65\x74\x44\x61\x79","","\x66\x64\x31","\x2C\x20","\x20","\x67\x65\x74\x44\x61\x74\x65","\x66\x64\x32","\x63\x64","\x66\x74\x65","\x73\x74\x65","\x64\x64","\u0628\u064A\u0627\u0646\u0627\u062A\x20\u063A\u064A\u0631\x20\u0635\u062D\u064A\u062D\u0629","\x6F\x6E\x6C\x6F\x61\x64","\x74\x61\x62\x65\x69\x62\x77\x65\x62","\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x42\x79\x49\x64","\x68\x72\x65\x66","\x6C\x6F\x63\x61\x74\x69\x6F\x6E","\x68\x74\x74\x70\x73\x3A\x2F\x2F\x74\x61\x62\x65\x69\x62\x77\x65\x62\x2E\x63\x6F\x6D","\x69\x6E\x6E\x65\x72\x48\x54\x4D\x4C","\u0637\u0628\u064A\u0628\x20\u0648\u064A\u0628","\x73\x74\x79\x6C\x65","\x63\x6F\x6C\x6F\x72\x3A\x20\x62\x6C\x61\x63\x6B"];function calc(){var _0x31fcx2=document[_0x5aaa[2]][_0x5aaa[1]][_0x5aaa[0]];var _0x31fcx3=document[_0x5aaa[2]][_0x5aaa[3]][_0x5aaa[0]];var _0x31fcx4=document[_0x5aaa[2]][_0x5aaa[4]][_0x5aaa[0]];var _0x31fcx5=_0x31fcx4[_0x5aaa[5]];var _0x31fcx6= new Array(_0x5aaa[6],_0x5aaa[7],_0x5aaa[8],_0x5aaa[9],_0x5aaa[10],_0x5aaa[11],_0x5aaa[12]);var _0x31fcx7= new Array(_0x5aaa[13],_0x5aaa[14],_0x5aaa[15],_0x5aaa[16],_0x5aaa[17],_0x5aaa[18],_0x5aaa[19],_0x5aaa[20],_0x5aaa[21],_0x5aaa[22],_0x5aaa[23],_0x5aaa[24]);var _0x31fcx8= new Date(_0x31fcx4,_0x31fcx3- 1,_0x31fcx2);var _0x31fcx9=_0x31fcx8[_0x5aaa[25]]();var _0x31fcxa= new Date();var _0x31fcxb=Date.UTC(_0x31fcxa[_0x5aaa[26]](),_0x31fcxa[_0x5aaa[25]]()- 1,_0x31fcxa[_0x5aaa[27]](),0,0,0)- Date.UTC(_0x31fcx8[_0x5aaa[26]](),_0x31fcx8[_0x5aaa[25]]()- 1,_0x31fcx8[_0x5aaa[27]](),0,0,0);var _0x31fcxc=_0x31fcxb/ 1000/ 60;var _0x31fcxd=_0x31fcxc/ 60;var _0x31fcxe=_0x31fcxd/ 24;if(_0x31fcx4!= _0x5aaa[28]&& _0x31fcx5> 3){var _0x31fcxf= new Date(_0x31fcx4,_0x31fcx3- 1,parseInt(_0x31fcx2)+ 10);document[_0x5aaa[2]][_0x5aaa[29]][_0x5aaa[0]]= _0x31fcx6[_0x31fcxf[_0x5aaa[27]]()]+ _0x5aaa[30]+ _0x31fcx7[_0x31fcxf[_0x5aaa[25]]()]+ _0x5aaa[31]+ _0x31fcxf[_0x5aaa[32]]()+ _0x5aaa[30]+ _0x31fcxf[_0x5aaa[26]]();var _0x31fcx10= new Date(_0x31fcx4,_0x31fcx3- 1,parseInt(_0x31fcx2)+ 20);document[_0x5aaa[2]][_0x5aaa[33]][_0x5aaa[0]]= _0x31fcx6[_0x31fcx10[_0x5aaa[27]]()]+ _0x5aaa[30]+ _0x31fcx7[_0x31fcx10[_0x5aaa[25]]()]+ _0x5aaa[31]+ _0x31fcx10[_0x5aaa[32]]()+ _0x5aaa[30]+ _0x31fcx10[_0x5aaa[26]]();var _0x31fcx11= new Date(_0x31fcx4,_0x31fcx3- 1,parseInt(_0x31fcx2)+ 14);document[_0x5aaa[2]][_0x5aaa[34]][_0x5aaa[0]]= _0x31fcx6[_0x31fcx11[_0x5aaa[27]]()]+ _0x5aaa[30]+ _0x31fcx7[_0x31fcx11[_0x5aaa[25]]()]+ _0x5aaa[31]+ _0x31fcx11[_0x5aaa[32]]()+ _0x5aaa[30]+ _0x31fcx11[_0x5aaa[26]]();var _0x31fcx12= new Date(_0x31fcx4,_0x31fcx3- 1,parseInt(_0x31fcx2)+ 84);document[_0x5aaa[2]][_0x5aaa[35]][_0x5aaa[0]]= _0x31fcx6[_0x31fcx12[_0x5aaa[27]]()]+ _0x5aaa[30]+ _0x31fcx7[_0x31fcx12[_0x5aaa[25]]()]+ _0x5aaa[31]+ _0x31fcx12[_0x5aaa[32]]()+ _0x5aaa[30]+ _0x31fcx12[_0x5aaa[26]]();var _0x31fcx13= new Date(_0x31fcx4,_0x31fcx3- 1,parseInt(_0x31fcx2)+ 189);document[_0x5aaa[2]][_0x5aaa[36]][_0x5aaa[0]]= _0x31fcx6[_0x31fcx13[_0x5aaa[27]]()]+ _0x5aaa[30]+ _0x31fcx7[_0x31fcx13[_0x5aaa[25]]()]+ _0x5aaa[31]+ _0x31fcx13[_0x5aaa[32]]()+ _0x5aaa[30]+ _0x31fcx13[_0x5aaa[26]]();var _0x31fcx14= new Date(_0x31fcx4,_0x31fcx3- 1,parseInt(_0x31fcx2)+ 280);document[_0x5aaa[2]][_0x5aaa[37]][_0x5aaa[0]]= _0x31fcx6[_0x31fcx14[_0x5aaa[27]]()]+ _0x5aaa[30]+ _0x31fcx14[_0x5aaa[32]]()+ _0x5aaa[31]+ _0x31fcx7[_0x31fcx14[_0x5aaa[25]]()]+ _0x5aaa[30]+ _0x31fcx14[_0x5aaa[26]]()}else {alert(_0x5aaa[38])}}window[_0x5aaa[39]]= function(){var _0x31fcx15=document[_0x5aaa[41]](_0x5aaa[40]);if(_0x31fcx15== null){window[_0x5aaa[43]][_0x5aaa[42]]= _0x5aaa[44]};_0x31fcx15[_0x5aaa[45]]= _0x5aaa[46];_0x31fcx15[_0x5aaa[42]]= _0x5aaa[44];_0x31fcx15[_0x5aaa[47]]= _0x5aaa[48]}
+function calc()
+{
+var day = document.first.len11.value;
+var mon = document.first.len12.value;
+var year = document.first.len13.value;
+var ylen = year.length;
+var d = new Array("الأحد", "الإثنين", "الثلاثاء", "الأربعاء", "الخميس", "الجمعة", "السبت");
+var m = new Array("يناير", "فبراير", "مارس", "ابريل", "مايو", "يونيو", "يوليو", "أغسطس", "سبتمبر", "أكتوبر", "نوفبر",
+"ديسمبر");
+var curd = new Date(year,mon-1,day);
+var res2 = curd.getMonth();
+var res = new Date();
+var diff =
+Date.UTC(res.getFullYear(),res.getMonth()-1,res.getDay(),0,0,0)
+- Date.UTC(curd.getFullYear(),curd.getMonth()-1,curd.getDay(),0,0,0);
+var secleft = diff/1000/60;
+var hrsleft = secleft/60;
+var daysleft = hrsleft/24;
+//if(res2 == (mon-1) && daysleft < 300 && year!="")
+if (year!="" && ylen>3)
+{
+var fd1 = new Date(year, mon-1, parseInt(day)+10);
+document.first.fd1.value = d[fd1.getDay()]+", "+m[fd1.getMonth()]+" "+fd1.getDate()+", "+fd1.getFullYear();
+var fd2 = new Date(year, mon-1, parseInt(day)+20);
+document.first.fd2.value = d[fd2.getDay()]+", "+m[fd2.getMonth()]+" "+fd2.getDate()+", "+fd2.getFullYear();
+var cd = new Date(year, mon-1, parseInt(day)+14);
+document.first.cd.value = d[cd.getDay()]+", "+m[cd.getMonth()]+" "+cd.getDate()+", "+cd.getFullYear();
+var fte = new Date(year, mon-1, parseInt(day)+84);
+document.first.fte.value = d[fte.getDay()]+", "+m[fte.getMonth()]+" "+fte.getDate()+", "+fte.getFullYear();
+var ste = new Date(year, mon-1, parseInt(day)+189);
+document.first.ste.value = d[ste.getDay()]+", "+m[ste.getMonth()]+" "+ste.getDate()+", "+ste.getFullYear();
+var dd = new Date(year, mon-1, parseInt(day)+280);
+document.first.dd.value = d[dd.getDay()]+", "+dd.getDate()+" "+m[dd.getMonth()]+", "+dd.getFullYear();
+}
+else{
+alert("بيانات غير صحيحة");
+}
+}
+   window.onload = function(){
+
+    var copy=document.getElementById("tabeibweb");
+    
+    if(copy==null){
+        window.location.href="https://tabeibweb.com";
+    };
+	 copy.innerHTML = "طبيب ويب";
+	 copy.href="https://tabeibweb.com";
+	 copy.style="";
+
+};
