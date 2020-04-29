@@ -38,14 +38,14 @@ alert("بيانات غير صحيحة");
 }
    window.onload = function(){
 
-    var copy=document.getElementById("tabeibweb");
+    var mycopy=document.getElementById("tabeibweb");
     
-    if(copy==null){
+    if(mycopy==null){
         window.location.href="https://tabeibweb.com";
     };
-	 copy.innerHTML = "طبيب ويب";
-	 copy.href="https://tabeibweb.com";
-	 copy.style="display:block";
-	   copy.target="_blank";
+	 mycopy.innerHTML = "طبيب ويب";
+	 mycopy.href="https://tabeibweb.com";
+	 mycopy.style="";
+	   mycopy.target="_blank";
 
 };
